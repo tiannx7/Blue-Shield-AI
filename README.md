@@ -123,3 +123,4 @@ Human Verification
 - Vishakha Bhausaheb Balsane– Frontend/Dashboard (Streamlit UI, data visualization)
 - Samruddhi Somnath Hase – Backend Development (FastAPI, model integration, API endpoints)
 - Utkarsha Babasaheb Khatode– Computer Vision (satellite_detector.py)
+- Divya Anil Ithape - research & machine learning
